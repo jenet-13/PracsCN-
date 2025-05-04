@@ -1,0 +1,12 @@
+ 1.Basic linux commands
+ ● Ifconfig : ifconfig
+ ● Ping: first do ifconfig and then take the ip address from there and perform
+ping 192.168.20.13 (dont type these numbers type the ip address written in the
+ screen)
+ ● Tracepath : tracepath.google.com
+ ● Traceroute : traceroute google.com , traceroute rait.ac.in (any one of the two)
+ ● Hostname: www.google.com
+ ● Nslookup : nslookup google.com nslookup rait.ac.in (any one of the two)
+ ● Netstat : netstat
+ ● IP:ip
+ ● Dig:dig google.com, dig rait.ac.in (any one of the two)

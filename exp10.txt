@@ -1,0 +1,13 @@
+● AddRoutes
+ sudo route add-net 162.50.1.1 gw 192.168.52.1 netmask 255.255.255.255
+ password
+ netstat-rn
+ ● Delete Routes
+ sudo route del-net 162.50.1.1 gw 192.168.52.1 netmask 255.255.255.255
+ netstat-rn
+ ● Changedefault gateway
+ sudo route add default gw 192.168.52.1
+ netstat-rn
+● Delete gateway added
+ sudo route del default gw 192.168.52.1
+ netstat-rn
